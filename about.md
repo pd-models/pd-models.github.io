@@ -18,7 +18,7 @@ Project Coordinators:
 Catarina Pereira [cipereira@fc.ul.pt](mailto:cipereira@fc.ul.pt)  
 André Falcão [aofalcao@ciencias.ulisboa.pt](mailto:aofalcao@ciencias.ulisboa.pt)  
 Margarida D. Amaral [msamaral@fc.ul.pt](mailto:msamaral@fc.ul.pt)  
-Alexander Mazein [amazen@eisbm.org](mailto:amazen@eisbm.org) 
+Alexander Mazein [alexander.mazein@uni.lu](mailto:alexander.mazein@uni.lu) 
 
 # Funding
 
