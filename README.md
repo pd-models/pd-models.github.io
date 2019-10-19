@@ -1,3 +1,18 @@
+# Navigation
+
+Navigation items are located in [_layout/default.html](https://github.com/pd-models/pd-models.github.io/edit/master/_layouts/default.html)
+
+# Welcome page
+
+Edit [index.html](https://github.com/pd-models/pd-models.github.io/blob/master/index.html) to modify the Welcome page
+
+# Diagrams
+
+Pages with diagrams are located in ??? folder
+
+
+
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
