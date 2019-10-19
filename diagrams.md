@@ -6,4 +6,5 @@ permalink: /diagrams/
 
 # Diagrams
 
-Text
+[Sulfur amino acids](/pages/001)
+
