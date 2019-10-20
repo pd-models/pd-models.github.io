@@ -6,5 +6,5 @@ permalink: /diagrams/
 
 # Diagrams
 
-[Sulfur amino acid metabolism](/001) (Madara Brice, Tom Freeman, 2018)
+[Sulfur amino acid metabolism (Madara Brice, Tom Freeman, 2018)](/001) 
 
