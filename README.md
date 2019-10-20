@@ -1,3 +1,7 @@
+# Site title and description
+
+The site title visible in the top-left corner and the short description can be modified in [_config.yml](_config.yml)
+
 # Navigation
 
 Navigation items are located in [_layout/default.html](https://github.com/pd-models/pd-models.github.io/edit/master/_layouts/default.html).
