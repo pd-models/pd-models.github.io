@@ -16,7 +16,7 @@ permalink: /team
 </table>
 <table>
     <tr>
-      <td style="width:210px;"><p style="margin:4px;"><strong>Tom Freeman</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Personal Chair of Systems Immunology, Roslin Institute, University of Edinbourgh, UK</font></p></td>
+      <td style="width:210px;"><p style="margin:4px;"><strong>Tom Freeman</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Personal Chair of Systems Immunology, Roslin Institute, University of Edinburgh, UK</font></p></td>
       <td style="width:210px;"></td>
       <td style="width:210px;"></td>
       <td style="width:210px;"></td>
