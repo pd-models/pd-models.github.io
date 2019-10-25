@@ -1,5 +1,7 @@
 # Structure
 
+Test  
+
 The main pages visiable as navigation items on the top are located in the root.
 Pages with diagrams are located in the [pages](/pages) folder.
 The diagram files in various formats are stored in the [downloads](/downloads) folder.
